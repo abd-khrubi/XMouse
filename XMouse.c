@@ -4,11 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <unistd.h>
-
-#include <X11/Xlib.h>
-#include <X11/Xutil.h>
-
 #define OPERATION_MV (uint)1
 #define OPERATION_C (uint)2
 
